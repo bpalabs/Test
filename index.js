@@ -6,4 +6,4 @@ app.get('/', (req, res) => {
   res.send({ test:'GMIT' });
 });
 
-app.listen(5000);/local port 5000
+app.listen(5000);/local port for testing - 5000
